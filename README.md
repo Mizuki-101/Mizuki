@@ -1,4 +1,4 @@
-# Mizuk
+# Mizuki
 i# こんにちは、Mizuki です！ 👩‍💻  
 
 - 🌱 今学んでいること: **Python / Go / TypeScript / GCP**  
